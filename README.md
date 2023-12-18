@@ -2,13 +2,14 @@
 
 ## How to Use
 
-## VSCode
+### VSCode
 
 Just follow [the README of marp-vscode](https://github.com/marp-team/marp-vscode#use-custom-theme-css-%EF%B8%8F)
 
-## Marp CLI
+### Marp CLI
 
 ```bash
 $ ./marp.sh slide.md --html
 $ ./marp.sh slide.md --pdf
-``
+```
+
