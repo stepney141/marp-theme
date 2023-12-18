@@ -1,0 +1,11 @@
+{
+  "name": "stepney141-marp-theme",
+  "type": "module",
+  "marp": {
+    "html": true,
+    "allowLocalFiles": true
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
