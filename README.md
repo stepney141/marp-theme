@@ -13,3 +13,7 @@ $ ./marp.sh slide.md --html
 $ ./marp.sh slide.md --pdf
 ```
 
+## 参考にしたもの
+
+- https://trap.jp/post/1341/
+- https://github.com/marp-team/marp-cli/blob/HEAD/docs/bespoke-transitions/README.md
